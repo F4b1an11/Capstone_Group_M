@@ -20,6 +20,37 @@ A pilot recieves over a hundred NOTAMs for his flight, our system will filter ou
   
 ---
 
+---
+
+---
+
+## Team Contributions & Responsibilities
+### Product Owner
+- Communicates with the mentor and other stakeholders
+- Creates and prioritizes tickets in the product backlog
+- Assigns tickets to appropriate sprints based on project goals
+- Incorporates feedback from sprints into future sprint planning
+
+### Scrum Master
+- Facilitates the Scrum process and ensures adherence to Scrum practices
+- Assigns sprint tickets to team members
+- Leads sprint planning, daily stand-ups, and retrospectives
+- Tracks sprint progress
+  
+### Shared Team Responsibilities
+- Researching the NOTAM system and FAA API
+- Implementing NOTAM data retrieval, parsing, and filtering logic
+- Developing and executing unit tests
+- Designing and improving the user interface
+- Writing and maintaining project documentation
+- Participating in sprint demos, reviews, and retrospectives
+- Iterating on the system based on mentor and SME feedback
+
+---
+
+
+
+
 ## Technologies Used
 - Language(s): Python, JavaScript
 - Libraries / Frameworks: React
