@@ -20,10 +20,6 @@ A pilot recieves over a hundred NOTAMs for his flight, our system will filter ou
   
 ---
 
----
-
----
-
 ## Team Contributions & Responsibilities
 ### Product Owner
 - Communicates with the mentor and other stakeholders
@@ -45,10 +41,6 @@ A pilot recieves over a hundred NOTAMs for his flight, our system will filter ou
 - Writing and maintaining project documentation
 - Participating in sprint demos, reviews, and retrospectives
 - Iterating on the system based on mentor and SME feedback
-
----
-
-
 
 
 ## Technologies Used
