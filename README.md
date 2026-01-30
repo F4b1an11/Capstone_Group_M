@@ -32,3 +32,42 @@ Steps to set up and run the project locally.
 ```bash
 git clone https://github.com/your-username/project-name.git
 cd project-name
+```
+
+
+## Progress Plan
+**All dates/goals are subject to change based on feedback and development progress*
+
+### Sprint 1
+End date: February 16
+
+- Establish clear understanding of NOTAM
+- Research NOTAM structure and FAA API
+- Define core project features
+- Define NOTAM “usefulness” criteria
+- Set up GitHub repository
+- Implement API connection and test data retrieval
+
+### Sprint 2
+End date: March 9
+
+- Implement NOTAM parsing to separate raw text into structured fields
+- Develop unit tests and test parsing functionality
+- Implement a basic way to display parsed NOTAM information
+- Implement NOTAM usefulness classification and prioritization
+- End Goal: Have a Minimum-Viable-Product (MVP)
+
+### Sprint 3
+End date: April 13
+
+- Improve filtering
+  - Contingent on feedback 
+- Improve UI
+
+### Sprint 4
+End date: May 4
+
+- Improve performance and code quality
+- Prepare final demo
+
+
