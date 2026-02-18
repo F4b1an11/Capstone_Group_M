@@ -23,6 +23,9 @@
 *.tar.gz
 *.rar
 
+# Maven generated #
+target/
+
 # Mac #
 
 .DS_Store
