@@ -9,6 +9,4 @@ function App() {
   );
 }
 
-console.log("App.jsx loaded");
-
 export default App;
